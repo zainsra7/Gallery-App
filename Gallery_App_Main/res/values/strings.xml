@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assingment1</string>
+    <string name="val">val</string>
+    <string name="LoadButton">Load-Images</string>
+    <string name="delete">Delete</string>
+
+    <string-array name="titles">
+        <item>Meme1</item>
+        <item>Meme2</item>
+        <item>Meme3</item>
+    </string-array>
+</resources>
